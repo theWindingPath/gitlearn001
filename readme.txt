@@ -1,2 +1,2 @@
-Git is a version control system.你好
-Git is free sofeware 工作
+Git is a distributed  version control system.你好
+Git is free sofeware distributed under the GPL 工作
