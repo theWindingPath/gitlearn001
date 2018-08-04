@@ -1,0 +1,2 @@
+Git is a version control system.你好
+Git is free sofeware 工作
